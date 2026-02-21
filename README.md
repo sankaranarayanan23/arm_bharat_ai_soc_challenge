@@ -1,1 +1,0 @@
-# arm_bharat_ai_soc_challenge
